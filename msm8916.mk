@@ -86,7 +86,8 @@ PRODUCT_COPY_FILES += \
 # Camera
 PRODUCT_PACKAGES += \
     camera.msm8916 \
-    libbson
+    libbson \
+	Camero
 
 # CMActions
 PRODUCT_PACKAGES += \
