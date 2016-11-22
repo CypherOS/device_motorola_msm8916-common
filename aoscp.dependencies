@@ -2,13 +2,13 @@
   {
     "repository":  "android_kernel_motorola_msm8916",
     "target_path": "kernel/motorola/msm8916",
-	"branch":      "cm-14.0",
+	"branch":      "cm-14.1",
 	"remote":      "cm"
   },
   {
     "repository": "android_external_bson",
     "target_path": "external/bson",
-	"branch":      "cm-13.0",
+	"branch":      "cm-14.1",
 	"remote":      "cm"
   },
   {
