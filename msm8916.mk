@@ -89,9 +89,9 @@ PRODUCT_PACKAGES += \
     libbson \
 	Camero
 
-# CMActions
+# Motion Gestures
 PRODUCT_PACKAGES += \
-    CMActions
+    MotionGestures
 
 # Display
 PRODUCT_PACKAGES += \
