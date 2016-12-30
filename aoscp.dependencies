@@ -1,26 +1,32 @@
 [
   {
-    "repository":  "android_kernel_motorola_msm8916",
+    "repository":  "kernel_motorola_msm8916",
     "target_path": "kernel/motorola/msm8916",
-	"branch":      "cm-14.1",
-	"remote":      "cm"
+	"branch":      "n7.1",
+	"remote":      "aoscp"
   },
   {
-    "repository": "android_external_bson",
+    "repository": "external_bson",
     "target_path": "external/bson",
-	"branch":      "cm-14.1",
-	"remote":      "cm"
+	"branch":      "n7.1",
+	"remote":      "aoscp"
   },
   {
-    "repository": "android_device_qcom_common",
+    "repository": "device_qcom_common",
     "target_path": "device/qcom/common",
-	"branch":      "cm-14.1",
-	"remote":      "cm"
+	"branch":      "n7.1",
+	"remote":      "aoscp"
   },
   {
     "repository": "android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
-	"branch":      "cm-14.1",
-	"remote":      "cm"
+	"branch":      "n7.1",
+	"remote":      "aoscp"
+  },
+  {
+    "repository":  "proprietary_vendor_qcom_binaries",
+    "target_path": "vendor/qcom/binaries",
+    "branch":      "n7.1",
+    "remote":      "aoscp"
   }
 ]
