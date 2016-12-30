@@ -20,8 +20,8 @@
   {
     "repository": "android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
-	"branch":      "n7.1",
-	"remote":      "aoscp"
+	"branch":      "cm-14.1",
+	"remote":      "los"
   },
   {
     "repository":  "proprietary_vendor_qcom_binaries",
