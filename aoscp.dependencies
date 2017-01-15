@@ -2,31 +2,31 @@
   {
     "repository":  "kernel_motorola_msm8916",
     "target_path": "kernel/motorola/msm8916",
-	"branch":      "n7.1",
+	"branch":      "nougat-mr1",
 	"remote":      "aoscp"
   },
   {
     "repository": "external_bson",
     "target_path": "external/bson",
-	"branch":      "n7.1",
+	"branch":      "nougat-mr1",
 	"remote":      "aoscp"
   },
   {
     "repository": "device_qcom_common",
     "target_path": "device/qcom/common",
-	"branch":      "n7.1",
+	"branch":      "nougat-mr1",
 	"remote":      "aoscp"
   },
   {
     "repository": "packages_resources_Translato",
     "target_path": "packages/resources/Translato",
-	"branch":      "n7.1",
+	"branch":      "nougat-mr1",
 	"remote":      "aoscp"
   },
   {
     "repository":  "proprietary_vendor_qcom_binaries",
     "target_path": "vendor/qcom/binaries",
-    "branch":      "n7.1",
+    "branch":      "nougat-mr1",
     "remote":      "aoscp"
   }
 ]
