@@ -85,12 +85,7 @@ PRODUCT_COPY_FILES += \
 # Camera
 PRODUCT_PACKAGES += \
     camera.msm8916 \
-    libbson \
-	Camero
-
-# CMActions
-PRODUCT_PACKAGES += \
-    CMActions
+    libbson
 
 # Display
 PRODUCT_PACKAGES += \
@@ -113,7 +108,6 @@ endif
 
 # FM
 PRODUCT_PACKAGES += \
-    FMRadio \
     libfmjni
 
 # For android_filesystem_config.h
