@@ -90,8 +90,8 @@ PRODUCT_PACKAGES += \
     libshims_camera
 
 # CMActions
-PRODUCT_PACKAGES += \
-    CMActions
+#PRODUCT_PACKAGES += \
+#    CMActions
 
 # Display
 PRODUCT_PACKAGES += \
