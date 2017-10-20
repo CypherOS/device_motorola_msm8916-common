@@ -1,0 +1,22 @@
+[
+  {
+    "repository":  "kernel_motorola_msm8916",
+    "target_path": "kernel/motorola/msm8916",
+    "remote":      "aoscp"
+  },
+  {
+    "repository":  "external_bson",
+    "target_path": "external/bson",
+    "remote":      "aoscp"
+  },
+  {
+    "repository":  "device_qcom_common",
+    "target_path": "device/qcom/common",
+    "remote":      "aoscp"
+  },
+  {
+    "repository":  "proprietary_vendor_qcom_binaries",
+    "target_path": "vendor/qcom/binaries",
+    "remote":      "aoscp"
+  }
+]
