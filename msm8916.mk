@@ -86,6 +86,10 @@ PRODUCT_PACKAGES += \
     libc_util \
     libshims_camera
 
+# Charger
+PRODUCT_PACKAGES += \
+    charger_res_images
+
 # Display
 PRODUCT_PACKAGES += \
     android.hardware.graphics.allocator@2.0-impl \
